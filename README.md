@@ -8,7 +8,6 @@
 **Author:** Ryan Coyle  
 **Project Role:** Incident Response Team Member — Simulated Capstone Engagement  
 **Career Focus:** SOC Analyst / Junior Security Analyst  
-
 **LinkedIn:** https://www.linkedin.com/in/rc770077  
 **GitHub:** https://github.com/rc7700-77  
 **Email:** ryancoyle7@gmail.com
